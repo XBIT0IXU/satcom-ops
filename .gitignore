@@ -1,0 +1,37 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Build and packaging output
+build/
+dist/
+out/
+release/
+
+# Dependencies and tool caches
+node_modules/
+vendor/
+.cache/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+# Test and coverage output
+coverage/
+.coverage
+
+# Logs and runtime data
+*.log
+logs/
+data/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
