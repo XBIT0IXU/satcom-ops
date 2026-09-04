@@ -3,7 +3,7 @@
 SATCOM-OPS is an independent desktop application project for monitoring and diagnosing Starlink systems. Its mission is to give operators a clear, local-first view of communications health without obscuring the underlying observations.
 
 > [!IMPORTANT]
-> SATCOM-OPS is an unofficial, independent open-source project. It is not affiliated with, endorsed by, or sponsored by Starlink, SpaceX, or their affiliates. Starlink and SpaceX are trademarks of their respective owners.
+> SATCOM-OPS is an unofficial, independent source-available project. It is not affiliated with, endorsed by, or sponsored by Starlink, SpaceX, or their affiliates. Starlink and SpaceX are trademarks of their respective owners.
 
 ## Initial v0.1 scope
 
@@ -37,5 +37,4 @@ Interfaces, compatibility, packaging, and implementation technology are not yet 
 
 ## License
 
-Licensed under the [MIT License](LICENSE).
-
+Source code is available under the [PolyForm Noncommercial License 1.0.0](LICENSE). Copyright attribution to XBIT0IXU must be preserved as specified in [NOTICE](NOTICE). Commercial use is not permitted under this license and requires separate written permission from XBIT0IXU.
